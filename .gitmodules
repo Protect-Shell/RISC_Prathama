@@ -1,0 +1,4 @@
+[submodule "DemoCode"]
+    path = DemoCode    
+    url = git@github.com:SeedVGP/Risc_prat_Core
+    branch = main
